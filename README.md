@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/vmqp0dwtvcio9vp3?svg=true)](https://ci.appveyor.com/project/volik97/react-components-func)
